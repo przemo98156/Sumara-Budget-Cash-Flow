@@ -1,0 +1,74 @@
+
+
+<h1>Polityka prywatności</h1>
+<p class="meta">Aplikacja mobilna „Sumara – Budget & Cash Flow” · obowiązuje od <mark>1 grudnia 2026 </mark></p>
+
+<h2>1. Kto odpowiada za aplikację</h2>
+<p>Wydawcą aplikacji „Sumara – Budget & Cash Flow” (dalej: „Aplikacja”) jest <mark>Przemysław Nowotniak> (dalej: „Wydawca”).
+Kontakt w sprawach prywatności: <mark>mobique.studio@gmail.com </mark>.</p>
+
+<h2>2. Najważniejsze w skrócie</h2>
+<ul>
+<li>Twoje dane finansowe (konta, transakcje, kategorie, cele, opisy i notatki) są zapisywane <strong>wyłącznie na Twoim urządzeniu</strong>.</li>
+<li>Wydawca <strong>nie ma do nich dostępu</strong>, nie wysyła ich na żaden serwer i nie wymaga zakładania konta.</li>
+<li>Aplikacja nie zawiera reklam, narzędzi analitycznych ani mechanizmów śledzenia.</li>
+<li>Jedyne połączenie z internetem służy do pobrania publicznych kursów walut z API Narodowego Banku Polskiego.</li>
+</ul>
+
+<h2>3. Jakie dane przetwarza Aplikacja</h2>
+<p>Aplikacja przechowuje lokalnie w pamięci Twojego urządzenia dane, które sam wprowadzasz lub importujesz z pliku:</p>
+<ul>
+<li>nazwy kont, ich waluty i salda;</li>
+<li>transakcje (kwota, data, rodzaj, kategoria, opis, notatka);</li>
+<li>kategorie i miesięczne limity (cele) oraz cele oszczędnościowe;</li>
+<li>ustawienia Aplikacji (waluta główna, język, motyw, informacja o tym, że wyświetlono przewodnik po pierwszym uruchomieniu).</li>
+</ul>
+<p>Aplikacja <strong>nie zbiera</strong> m.in.: imienia i nazwiska, adresu e-mail, numeru telefonu, lokalizacji, kontaktów, zdjęć, identyfikatora reklamowego ani danych z innych aplikacji. Nie wymaga też numerów rachunków bankowych ani kart płatniczych - nazwy kont są dowolnymi etykietami, a Aplikacja nie łączy się z bankami.</p>
+<p>Ponieważ opisy i notatki są polami tekstowymi, mogą zawierać dowolne informacje, które do nich wpiszesz. Pozostają one wyłącznie w Twoim urządzeniu.</p>
+
+<h2>4. Połączenie z internetem - kursy walut NBP</h2>
+<p>Aby przeliczać waluty, Aplikacja pobiera publiczne kursy z API Narodowego Banku Polskiego (api.nbp.pl). Zapytania zawierają wyłącznie kod waluty i datę; <strong>nie zawierają żadnych Twoich danych finansowych ani danych osobowych</strong>. Jak każda usługa internetowa, serwer NBP technicznie widzi adres IP urządzenia, z którego pochodzi zapytanie - zasady ich przetwarzania określa NBP (nbp.pl). Pobrane kursy mogą być zapamiętane lokalnie; bez dostępu do internetu Aplikacja korzysta z kursów zapamiętanych lub awaryjnych.</p>
+
+<h2>5. Eksport, import i udostępnianie plików</h2>
+<ul>
+<li><strong>Eksport</strong> (CSV, Excel) tworzy plik z Twoimi danymi tylko na Twoje żądanie. Możesz zapisać go na urządzeniu lub udostępnić za pomocą systemowego okna udostępniania (np. dysk w chmurze, poczta e-mail, komunikator).</li>
+<li>Po przekazaniu pliku innej aplikacji lub usłudze dane podlegają zasadom prywatności tej aplikacji lub usługi - Wydawca nie ma na to wpływu i nie otrzymuje kopii pliku.</li>
+<li><strong>Import</strong> odczytuje wyłącznie plik, który sam wskażesz w systemowym oknie wyboru plików. Aplikacja nie przegląda innych plików na urządzeniu.</li>
+</ul>
+
+<h2>6. Kopie zapasowe systemu</h2>
+<p>Aplikacja nie ma własnej funkcji kopii zapasowej w chmurze. Systemy Android i iOS mogą jednak, zgodnie z ustawieniami Twojego urządzenia i konta (np. Kopia zapasowa Google, iCloud), tworzyć kopie danych aplikacji. Takie kopie są zarządzane przez dostawcę systemu, a nie przez Wydawcę. Możesz je wyłączyć w ustawieniach urządzenia.</p>
+
+<h2>7. Uprawnienia</h2>
+<ul>
+<li><strong>Dostęp do internetu</strong> - wyłącznie do pobierania kursów walut NBP.</li>
+<li>Dostęp do plików odbywa się przez systemowy wybór pliku/zapis pliku, bez szerokich uprawnień do pamięci.</li>
+<li>Aplikacja nie korzysta z aparatu, mikrofonu, lokalizacji ani kontaktów.</li>
+</ul>
+
+<h2>7a. Brak reklam i usług zewnętrznych</h2>
+<p>W dniu wejścia w życie niniejszej polityki Aplikacja nie zawiera reklam, bibliotek analitycznych ani zewnętrznych usług raportowania błędów, które zbierałyby dane o użytkowniku. Jeśli to się zmieni, polityka zostanie zaktualizowana przed wprowadzeniem takiej zmiany.</p>
+
+<h2>8. Jak długo przechowujemy dane i jak je usunąć</h2>
+<p>Dane pozostają w Twoim urządzeniu, dopóki ich nie usuniesz. Możesz to zrobić w każdej chwili:</p>
+<ul>
+<li>w Aplikacji: <em>Ustawienia → Dane → Usuń wszystkie dane</em> (operacja jest nieodwracalna - wcześniej wykonaj eksport, jeśli chcesz zachować kopię);</li>
+<li>odinstalowując Aplikację lub czyszcząc jej dane w ustawieniach systemu.</li>
+</ul>
+
+<h2>9. Twoje prawa</h2>
+<p>Ponieważ Wydawca nie posiada Twoich danych, nie może ich udostępnić, sprostować ani usunąć za Ciebie - pełną kontrolę masz w samej Aplikacji. Jeśli mimo to uważasz, że Twoje dane osobowe są przetwarzane niezgodnie z prawem, masz prawo wnieść skargę do Prezesa Urzędu Ochrony Danych Osobowych (uodo.gov.pl). W sprawach dotyczących prywatności możesz też napisać na adres podany w pkt 1.</p>
+
+<h2>10. Dzieci</h2>
+<p>Aplikacja nie jest skierowana do dzieci poniżej 16. roku życia, a Wydawca nie zbiera świadomie żadnych danych od dzieci.</p>
+
+<h2>11. Bezpieczeństwo</h2>
+<p>Dane są przechowywane w pamięci Twojego urządzenia, w obszarze przeznaczonym dla Aplikacji i chronionym przez system. Aplikacja nie stosuje dodatkowego szyfrowania bazy danych, dlatego zalecamy zabezpieczenie urządzenia blokadą ekranu oraz ostrożność przy udostępnianiu plików eksportu, które zawierają dane w postaci jawnej.</p>
+
+<h2>12. Zmiany polityki</h2>
+<p>Politykę możemy aktualizować, np. przy dodaniu nowych funkcji. Aktualna wersja jest zawsze dostępna pod adresem <mark>[ADRES URL TEJ STRONY]</mark>, a data ostatniej zmiany widnieje na górze dokumentu.</p>
+
+<h2>13. Kontakt</h2>
+<p> <mark> mail: mobique.studio@gmail.com </mark></p>
+
+</body></html>
