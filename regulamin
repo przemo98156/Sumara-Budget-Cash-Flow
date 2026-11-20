@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Regulamin – Sumara – Budget & Cash </title><style>
+:root{color-scheme:light dark}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.65;max-width:760px;margin:0 auto;padding:32px 20px 64px;color:#1e293b;background:#fff}
+@media(prefers-color-scheme:dark){body{color:#e2e8f0;background:#0f172a}a{color:#93c5fd}mark{background:#854d0e;color:#fef3c7}}
+h1{font-size:1.9rem;margin-bottom:4px}h2{font-size:1.2rem;margin-top:2rem}
+.meta{color:#64748b;font-size:.9rem;margin-bottom:2rem}
+mark{background:#fef08a;padding:0 3px;border-radius:3px}
+ul{padding-left:1.2rem}li{margin:.25rem 0}
+</style></head><body>
+
+<h1>Regulamin korzystania z aplikacji</h1>
+<p class="meta">Aplikacja mobilna „Sumara – Budget & Cash” · obowiązuje od <mark> 1 grudnia 2026</mark></p>
+
+<h2>§ 1. Postanowienia ogólne</h2>
+<ol>
+<li>Regulamin określa zasady korzystania z aplikacji mobilnej „Sumara – Budget & Cash” (dalej: „Aplikacja”), służącej do prowadzenia budżetu domowego lub firmowego na urządzeniu użytkownika.</li>
+<li>Usługodawcą jest <mark>Przemysław Nowotniak</mark> (dalej: „Wydawca”). Kontakt: <mark> mobique.studio@gmail.com </mark>.</li>
+<li>Użytkownikiem jest każda osoba, która zainstalowała i używa Aplikacji (dalej: „Użytkownik”). Konsumentem jest Użytkownik będący osobą fizyczną, który korzysta z Aplikacji w celu niezwiązanym bezpośrednio z jego działalnością gospodarczą lub zawodową.</li>
+<li>Pobranie lub używanie Aplikacji oznacza akceptację Regulaminu. Zasady przetwarzania danych opisuje Polityka prywatności: <mark>[ADRES URL POLITYKI PRYWATNOŚCI]</mark>.</li>
+</ol>
+
+<h2>§ 2. Wymagania techniczne</h2>
+<p>Do korzystania z Aplikacji potrzebne jest urządzenie z systemem Android lub iOS w wersji obsługiwanej przez Aplikację (wskazanej w sklepie z aplikacjami) oraz dla funkcji aktualizacji kursów walut dostęp do internetu. Pozostałe funkcje działają bez połączenia z internetem.</p>
+
+<h2>§ 3. Zakres i zasady korzystania</h2>
+<ol>
+<li>Aplikacja jest udostępniana <strong>bezpłatnie</strong>. Wydawca udziela Użytkownikowi niewyłącznej, nieprzenoszalnej licencji na korzystanie z Aplikacji na własnych urządzeniach, w zakresie prywatnym lub na potrzeby własnej działalności.</li>
+<li>Aplikacja umożliwia w szczególności: prowadzenie wielu kont, rejestrowanie przychodów, wydatków i transferów, zarządzanie kategoriami i celami, analizę danych, import i eksport plików CSV/Excel oraz przeliczanie walut.</li>
+<li>Wszystkie dane wprowadzone do Aplikacji są przechowywane lokalnie na urządzeniu Użytkownika. Użytkownik odpowiada za poprawność wprowadzanych danych.</li>
+<li>Użytkownik zobowiązuje się do korzystania z Aplikacji zgodnie z prawem i Regulaminem oraz do niewprowadzania treści o charakterze bezprawnym.</li>
+<li>Zabronione jest w szczególności: usuwanie lub obchodzenie zabezpieczeń Aplikacji, wykorzystywanie jej w sposób zakłócający działanie sklepów z aplikacjami lub usług NBP, oraz podejmowanie działań naruszających prawa autorskie Wydawcy - z zastrzeżeniem uprawnień, których prawo nie pozwala wyłączyć.</li>
+</ol>
+
+<h2>§ 4. Charakter informacyjny</h2>
+<ol>
+<li>Aplikacja jest narzędziem do porządkowania i analizy własnych danych. <strong>Nie stanowi doradztwa finansowego, inwestycyjnego, podatkowego, prawnego ani księgowego</strong>, a wyświetlane zestawienia nie zastępują dokumentacji księgowej ani rozliczeń podatkowych.</li>
+<li>Kursy walut pochodzą z publicznego API Narodowego Banku Polskiego i mają charakter informacyjny. Mogą różnić się od kursów stosowanych przez banki i kantory oraz od kursów obowiązujących w dniu faktycznej transakcji. Przeliczenia w Aplikacji są szacunkowe.</li>
+<li>Aplikacja nie jest połączona z bankami ani nie wykonuje płatności - nie wpływa na rzeczywiste środki użytkownika.</li>
+</ol>
+
+<h2>§ 5. Dane i kopie zapasowe</h2>
+<ol>
+<li>Ponieważ dane są przechowywane wyłącznie na urządzeniu Użytkownika, ich utrata (np. awaria, zgubienie urządzenia, odinstalowanie Aplikacji, użycie funkcji „Usuń wszystkie dane”) może być nieodwracalna.</li>
+<li>Wydawca zaleca regularne wykonywanie eksportu danych do pliku. Użytkownik odpowiada za przechowywanie i zabezpieczenie wyeksportowanych plików.</li>
+<li>Funkcja „Usuń wszystkie dane” wymaga potwierdzenia i nieodwracalnie usuwa konta, kategorie, transakcje i cele z urządzenia.</li>
+</ol>
+
+<h2>§ 6. Prawa autorskie</h2>
+<p>Aplikacja, jej kod, układ, grafiki i nazwa są chronione prawem autorskim i należą do Wydawcy (lub licencjodawców, w przypadku bibliotek open source używanych w Aplikacji, na warunkach ich licencji). Dane wprowadzone przez Użytkownika pozostają jego własnością.</p>
+
+<h2>§ 7. Odpowiedzialność</h2>
+<ol>
+<li>Wydawca dokłada starań, aby Aplikacja działała poprawnie, lecz - z uwagi na jej charakter, bezpłatność i zależność od urządzenia oraz systemu - nie gwarantuje bezbłędnego, nieprzerwanego działania ani braku niedokładności w wyliczeniach. Użytkownik powinien zgłosić wszelko błędy, które przydarzyły mu się podczas korzystania z aplikacji.</li>
+<li>Wydawca nie odpowiada za szkody wynikające z decyzji finansowych podjętych na podstawie danych z Aplikacji, z utraty danych wskutek zdarzeń po stronie Użytkownika lub urządzenia, ani z niedostępności zewnętrznych usług (np. API NBP).</li>
+</ol>
+
+<h2>§ 8. Reklamacje</h2>
+<ol>
+<li>Reklamacje dotyczące działania Aplikacji można zgłaszać e-mailem na adres <mark> mobique.studio@gmail.com </mark>.</li>
+<li>Zgłoszenie powinno zawierać opis problemu, model urządzenia, wersję systemu i wersję Aplikacji (Ustawienia systemu → Aplikacje) oraz  jeśli to możliwe zrzut ekranu.</li>
+<li>Wydawca rozpatruje reklamację w terminie 14 dni od jej otrzymania i informuje o wyniku na adres e-mail nadawcy.</li>
+<li>Konsument ma prawo do zgodności treści lub usługi cyfrowej z umową na zasadach określonych w ustawie o prawach konsumenta. Postanowienia Regulaminu nie ograniczają tych uprawnień.</li>
+<li>Konsument może skorzystać z pozasądowych sposobów rozpatrywania sporów, w tym z pomocy powiatowego (miejskiego) rzecznika konsumentów oraz mediacji lub sądu polubownego przy Inspekcji Handlowej. Informacje: uokik.gov.pl.</li>
+</ol>
+
+<h2>§ 9. Zmiany Aplikacji i Regulaminu</h2>
+<ol>
+<li>Wydawca może rozwijać, zmieniać lub ograniczać funkcje Aplikacji, a także zakończyć jej udostępnianie.</li>
+<li>Regulamin może być zmieniany z ważnych powodów, w szczególności zmian prawa, wymagań sklepów z aplikacjami lub funkcjonalności Aplikacji. Zmiany wchodzą w życie z chwilą opublikowania pod adresem <mark>[ADRES URL REGULAMINU]</mark>, a dla korzystających z Aplikacji - po zainstalowaniu aktualizacji lub dalszym korzystaniu po poinformowaniu o zmianie. Użytkownik, który nie akceptuje zmian, musi zaprzestać korzystania z Aplikacji i ją odinstalować.</li>
+<li>Jeśli w przyszłości Aplikacja zostanie wzbogacona o funkcje płatne, zasady ich zakupu, prawa odstąpienia od umowy i rozliczeń zostaną opisane odrębnie przed zakupem.</li>
+</ol>
+
+<h2>§ 10. Prawo właściwe i postanowienia końcowe</h2>
+<ol>
+<li>Regulamin podlega prawu polskiemu. Wobec konsumentów zamieszkałych w innych państwach nie pozbawia to ich ochrony wynikającej z bezwzględnie obowiązujących przepisów państwa ich zwykłego pobytu.</li>
+<li>W sprawach nieuregulowanych stosuje się przepisy prawa polskiego, w tym Kodeksu cywilnego, ustawy o świadczeniu usług drogą elektroniczną i ustawy o prawach konsumenta.</li>
+<li>Jeśli którekolwiek postanowienie Regulaminu zostanie uznane za nieważne, pozostałe zachowują moc.</li>
+</ol>
+
+</body></html>
